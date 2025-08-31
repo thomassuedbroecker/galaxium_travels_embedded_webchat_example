@@ -132,3 +132,5 @@ export SERVER_ENVIRONMENT=server.env
 export DOCKER_COMPOSE_FILE=docker-compose.yml
 orchestrate server start -e ${SERVER_ENVIRONMENT} -f ${DOCKER_COMPOSE_FILE}  --with-langfuse
 ```
+
+### [Home](https://github.com/thomassuedbroecker/galaxium_travels_embedded_webchat_example/blob/main/README.md)

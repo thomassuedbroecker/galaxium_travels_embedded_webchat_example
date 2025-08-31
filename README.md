@@ -32,11 +32,11 @@ The steps in the related [YouTube video: TBD]().
 
 Ensure your container engine is running on your desktop.
 
-## 2. [Set up the example `Galaxium Travels Infrastructure`](/galaxium_setup.md)
+## 2. [Set up the example `Galaxium Travels Infrastructure`](https://github.com/thomassuedbroecker/galaxium_travels_embedded_webchat_example/blob/main/galaxium_setup.md)
 
-## 3. [Set up the watsons Orchestrate ADK and watsonx Orchestrate Development Server](/2-watsonx_adk_setup.md)
+## 3. [Set up the watsons Orchestrate ADK and watsonx Orchestrate Development Server](https://github.com/thomassuedbroecker/galaxium_travels_embedded_webchat_example/blob/main/2-watsonx_adk_setup.md)
 
-## 4. [Generate a new Agent](/3-create_an_agent.md)
+## 4. [Generate a new Agent](https://github.com/thomassuedbroecker/galaxium_travels_embedded_webchat_example/blob/main/3-create_an_agent.md)
 
 ## 5. Verify the Agent works
 
@@ -50,7 +50,7 @@ Question: `I want to book a flight?`
 
 Now we can inspect the detailed behavior of the Agent in [langfuse locally](http://localhost:3010). (orchestrate@ibm.com/orchestrate)
 
-## 7. [Add the Agent to the "Galaxium Travels" webapp](/4-embed_webchat.md)
+## 7. [Add the Agent to the "Galaxium Travels" webapp](https://github.com/thomassuedbroecker/galaxium_travels_embedded_webchat_example/blob/main/4-embed_webchat.md)
 
 Now we will change the code in the web application.
 Then we will add the changes for the container in the Docker Compose file.

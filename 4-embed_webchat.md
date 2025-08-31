@@ -68,3 +68,5 @@ orchestrate server logs
 ### Step 7: Verify the Agent is available in the web ui
 
 Open the `Galaxium Travels Web` UI: http://localhost:8083
+
+### [Home](https://github.com/thomassuedbroecker/galaxium_travels_embedded_webchat_example/blob/main/README.md)

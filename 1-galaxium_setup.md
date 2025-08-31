@@ -29,4 +29,4 @@ Stop all applications; we only need to build and create the container images to 
 
 >Press 'command' and 'C' in the terminal session.
 
-[Home](/README.md)
+### [Home](https://github.com/thomassuedbroecker/galaxium_travels_embedded_webchat_example/blob/main/README.md)

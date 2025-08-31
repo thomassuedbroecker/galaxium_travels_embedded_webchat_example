@@ -48,5 +48,4 @@ Select the right available tool to fulfill the following tasks for a user who in
 The `REST API `is documented in an Open API format and can be imported as tools into watsonx Orchestrate Agent.
 The prepared `OpenAPI` file: `example-application-infrastructure/galaxium-travels-infrastructure/booking_system_rest/sample-galaxium-booking-backend-openapi-3.0.3-compose.json`
 
-
-
+### [Home](https://github.com/thomassuedbroecker/galaxium_travels_embedded_webchat_example/blob/main/README.md)
