@@ -199,15 +199,6 @@ orchestrate server start -e ${SERVER_ENVIRONMENT} -f ${DOCKER_COMPOSE_FILE}  --w
 
 ## 4. Generate a new Agent
 
-### Step 1: Activate local environment
-
-```sh
-source ./.venv/bin/activate
-orchestrate env activate local
-```
-
-## 4. Generate a new Agent
-
 Open a new Terminal in the **watsonx-orchestrate-adk** folder.
 
 ### Step 1: Activate local environment
