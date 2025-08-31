@@ -4,8 +4,8 @@ This repository contains resources for the "galaxium_travels_embedded_webchat_ex
 
 * Galaxium Travels Applications:
     * Galaxium Travels WebApp: http://localhost:8083
-    * Galaxium Travels Booking: http://localhost:8082
-    * Galaxium Travels HR: http://localhost:8081
+    * Galaxium Travels Booking: http://localhost:8082/docs
+    * Galaxium Travels HR: http://localhost:8081/docs
 
 * watsonx Orchestrate 
     * Langfuse: http://localhost:3010
