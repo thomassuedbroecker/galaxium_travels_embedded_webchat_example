@@ -26,7 +26,7 @@ This repository contains resources for the "galaxium_travels_embedded_webchat_ex
     * [Galaxium Travels Infrastructure](https://github.com/thomassuedbroecker/galaxium-travels-infrastructure)
     * [Galaxium Travels Idea](https://github.com/Max-Jesch/galaxium-travels)
 
-## The steps in the related [YouTube video: TBD]().
+## The steps in the related [YouTube video: 🚀 Build and Embed AI Agents Locally with watsonx Orchestrate into the Galaxium Travels WebApp Demo](https://youtu.be/dqoRJAZIZ-E?si=vsoy3XduZ5sbNwK7).
 
 #### 1. Start your container engine
 
