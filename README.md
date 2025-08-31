@@ -32,7 +32,7 @@ The steps in the related [YouTube video: TBD]().
 
 Ensure your container engine is running on your desktop.
 
-## 2. [Set up the example `Galaxium Travels Infrastructure`](https://github.com/thomassuedbroecker/galaxium_travels_embedded_webchat_example/blob/main/galaxium_setup.md)
+## 2. [Set up the example `Galaxium Travels Infrastructure`](https://github.com/thomassuedbroecker/galaxium_travels_embedded_webchat_example/blob/main/1-galaxium_setup.md)
 
 ## 3. [Set up the watsons Orchestrate ADK and watsonx Orchestrate Development Server](https://github.com/thomassuedbroecker/galaxium_travels_embedded_webchat_example/blob/main/2-watsonx_adk_setup.md)
 
