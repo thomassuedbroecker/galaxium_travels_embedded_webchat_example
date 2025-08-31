@@ -2,6 +2,16 @@
 
 This repository contains resources for the "galaxium_travels_embedded_webchat_example" project with watsonx Orchestrate Development Edition.
 
+* Galaxium Travels Applications:
+    * Galaxium Travels WebApp: http://localhost:8083
+    * Galaxium Travels Booking: http://localhost:8082
+    * Galaxium Travels HR: http://localhost:8081
+
+* watsonx Orchestrate 
+    * Langfuse: http://localhost:3010
+    * watsonx Orchestrate LiteChat: http://localhost:3000
+
+
 * Related resources:
 
     **IBM Documentation**
