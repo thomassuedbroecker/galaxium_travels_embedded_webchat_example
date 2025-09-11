@@ -1,6 +1,6 @@
 # Galaxium Travels Embedded Webchat Example
 
-This repository contains resources for the "galaxium_travels_embedded_webchat_example" project with watsonx Orchestrate Development Edition.
+This repository contains resources for the "galaxium_travels_embedded_webchat_example" with the `watsonx Orchestrate Development Edition`.
 
 * Galaxium Travels Applications:
     * Galaxium Travels WebApp: http://localhost:8083
